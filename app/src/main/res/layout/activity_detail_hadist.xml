@@ -19,7 +19,7 @@
         android:layout_height="wrap_content"
         android:fontFamily="@font/aladin"
         android:gravity="center"
-        android:text="Judul"
+        android:text="Judul hadist"
         android:textSize="30sp" />
 
     <TextView
